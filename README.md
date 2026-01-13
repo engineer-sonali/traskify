@@ -28,3 +28,8 @@ It allows users to create tasks, assign a date and time to each task, view all t
 - Tasks are rendered dynamically using map()
 - Task status updates instantly on user interaction
 
+---
+
+## 🌐 Live Demo
+[View Live Application](https://traskify.onrender.com/)
+
