@@ -1,6 +1,6 @@
-# Taskify 📝
+# Traskify 📝
 
-Taskify is a simple and intuitive task management web application built using React.  
+Traskify is a simple and intuitive task management web application built using React.  
 It allows users to create tasks, assign a date and time to each task, view all tasks, and mark tasks as completed.
 
 ---
@@ -32,4 +32,7 @@ It allows users to create tasks, assign a date and time to each task, view all t
 
 ## 🌐 Live Demo
 [View Live Application](https://traskify.onrender.com/)
+<img width="1919" height="827" alt="Screenshot 2026-01-13 195103" src="https://github.com/user-attachments/assets/ee22c273-4e28-4cde-9657-d96db016446f" />
+<img width="1919" height="816" alt="Screenshot 2026-01-13 195250" src="https://github.com/user-attachments/assets/584d1c1f-0da5-4563-bbe7-ba2d022b26ac" />
+
 
